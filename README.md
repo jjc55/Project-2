@@ -1,8 +1,5 @@
-# Crowdfunding_ETL
-Project 2
-
-# Project 2 Group_3
-## Project 2: Crowdfunding_ETL
+# Project 2: Crowdfunding_ETL
+Project 2 Group_3
 
 ### Names: Juhi, Kesha, Austin, Hima, and Lora
 
