@@ -5,8 +5,7 @@
 ## Executive Summary
 
 ## Tasks:
-1. Category DataFrame is Created (15 points)
-2. Subcategory DataFrame is Created (15 points)
-3. Campaign DataFrame is Created (30 points)
-4. Contacts DataFrame is Created (15 points)
-5. Crowdfunding Database is Created (25 points)
+1. Category DataFrame is Created and Subcategory DataFrame is Created (Hima)
+2. Campaign DataFrame is Created (Juhi)
+3. Contacts DataFrame is Created (Kesha)
+4. Crowdfunding Database is Created (Lora)
