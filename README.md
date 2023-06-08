@@ -5,7 +5,7 @@
 ## Executive Summary
 
 ## Tasks:
-1. Category DataFrame is Created and Subcategory DataFrame is Created (Hima)
-2. Campaign DataFrame is Created (Juhi)
+1. Category DataFrame is Created and Subcategory DataFrame is Created (Juhi)
+2. Campaign DataFrame is Created (Hima)
 3. Contacts DataFrame is Created (Kesha)
 4. Crowdfunding Database is Created (Lora)
